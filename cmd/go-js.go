@@ -62,7 +62,7 @@ func main(){
 	fmt.Println("Dzuhr\t: " + prayer_time.Dhuhr)
 	fmt.Println("Ashar\t: " + prayer_time.Asr)
 	fmt.Println("Maghrib\t: " + prayer_time.Maghrib)
-	fmt.Println("Isyat\t: " + prayer_time.Isha)
+	fmt.Println("Isya\t: " + prayer_time.Isha)
 
 	fmt.Println("Date\t: " + date_time.Gregorian)
 
